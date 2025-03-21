@@ -1,16 +1,16 @@
-# Australian Grand Prix 2025 Race Time Predictor
+# Australian Grand Prix 2025 Race Winner Predictor
 ## Predicting Race Performance Using Machine Learning and Formula 1 Data
 
 ## Overview
-This project predicts the race times for the 2025 Australian Grand Prix. By analyzing the relationship between qualifying times and race performance from the 2024 season, I built a predictive model using Gradient Boosting Regressor. The model leverages historical Formula 1 data to forecast how drivers will perform in the 2025 race based on their qualifying results.
+This project predicts the race winner for the 2025 Australian Grand Prix. By analyzing the relationship between qualifying times and race performance from the 2024 season, I built a predictive model using Gradient Boosting Regressor. The model leverages historical Formula 1 data to forecast how drivers will perform in the 2025 race based on their qualifying results.
 
 ## This project demonstrates :
 
-### Work with real-world, domain-specific data.
+#### Work with real-world, domain-specific data.
 
-### Build and evaluate machine learning models.
+#### Build and evaluate machine learning models.
 
-### Deliver actionable insights through data-driven predictions.
+#### Deliver actionable insights through data-driven predictions.
 
 ## How It Works
 ### Data Collection:
